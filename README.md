@@ -11,7 +11,8 @@ For Fonseka Innovations, Back End Developer Test
 
 ## Instructions
 To use this web application you must first setup your own web server using an application such as XAMPP. 
-Connect to the database with the given database in the _SQL folder. Once done connect to the web application.
+Connect to the database with the given database named xmens.sql. Once done connect to the web application.
+All resources for this web application is in lsapp folder due to a accident with the commit changes.
 
 To become a X-Men you click Try Outs and enter your email, description of your super power and a photo of you before and after.
 For people who wants to view the submission you must first register then log in and from there a view will be shown

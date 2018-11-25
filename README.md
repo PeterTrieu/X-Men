@@ -17,3 +17,7 @@ All resources for this web application is in lsapp folder due to a accident with
 To become a X-Men you click Try Outs and enter your email, description of your super power and a photo of you before and after.
 For people who wants to view the submission you must first register then log in and from there a view will be shown
 of all the submissions and as well as edit and deleting the submissions.
+
+Roles:
+Guests/Try Outs - Can only post submissions
+Users/Logins - Can only view, edit and delete, submissions
